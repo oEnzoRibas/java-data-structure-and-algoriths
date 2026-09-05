@@ -113,3 +113,5 @@ The standard library may be used later for comparison and benchmarking.
 This project is licensed under the MIT License.
 
 See [LICENSE](LICENSE) for details.
+
+Copyright (c) 2025 Enzo R. L. D. Ribas
