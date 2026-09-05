@@ -1,0 +1,13 @@
+4
+Tijolo
+5
+0,20
+Engenheiro
+2
+500,00
+Lata de Tinta
+10
+3,50
+Caixa de Prego
+7
+1,00

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1760397921 source:d:\users\enzo hd\github\repos\er\dsa\dsa_c\recursion\vecsum.c
+	<stdio.h>
+
+1760002258 source:d:\users\enzo hd\github\repos\er\dsa\dsa_c\challenges\biggerthanleft.c
+	<stdio.h>
+	"BiggerThanLeft.h"
+
+1760002142 d:\users\enzo hd\github\repos\er\dsa\dsa_c\challenges\biggerthanleft.h
+

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JaneladeDi\u00E1logo\\teste\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JaneladeDi\u00E1logo\\teste\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\MeuProjeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuProjeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\Janela\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JaneladeDi\u00E1logo\\Janela\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Switch1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Variaveis\\Variaveis\\Switch1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Variaveis\\Variaveis\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Switch\\Switch1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Switch\\Switch1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Switch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Switch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Program.cs",
+              "RelativeDocumentMoniker": "JaneladeDi\u00E1logo\\teste\\Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Program.cs",
+              "RelativeToolTip": "JaneladeDi\u00E1logo\\teste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:12:05.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "JaneladeDi\u00E1logo\\teste\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Form1.Designer.cs",
+              "RelativeToolTip": "JaneladeDi\u00E1logo\\teste\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:12:04.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\MeuProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "MeuProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\MeuProjeto\\Program.cs",
+              "RelativeToolTip": "MeuProjeto\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:06:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\Janela\\Program.cs",
+              "RelativeDocumentMoniker": "JaneladeDi\u00E1logo\\Janela\\Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\Janela\\Program.cs",
+              "RelativeToolTip": "JaneladeDi\u00E1logo\\Janela\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:53:33.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Switch1.csproj",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Switch1.csproj",
+              "RelativeDocumentMoniker": "Variaveis\\Variaveis\\Switch1.csproj",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Switch1.csproj",
+              "RelativeToolTip": "Variaveis\\Variaveis\\Switch1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T17:01:21.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Variaveis\\Variaveis\\Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Program.cs",
+              "RelativeToolTip": "Variaveis\\Variaveis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:01:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Switch\\Program.cs",
+              "RelativeDocumentMoniker": "Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Switch\\Program.cs",
+              "RelativeToolTip": "Switch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:57:24.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Switch1.csproj",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Switch\\Switch1.csproj",
+              "RelativeDocumentMoniker": "Switch\\Switch1.csproj",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Switch\\Switch1.csproj",
+              "RelativeToolTip": "Switch\\Switch1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T16:57:18.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

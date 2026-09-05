@@ -1,0 +1,28 @@
+Ana Maria Bastos
+ALMOXARIFE
+14850,60
+16
+Carlos Augusto Silva
+ESCRITURARIO
+15100,00
+62
+Fulgencio Aguiar Onorio
+ALMOXARIFE
+9600,00
+18
+Maria das Dores Aguiar
+ALMOXARIFE
+4500,00
+50
+Roberto Freitas Guedes
+SECRETARIO
+21000,00
+36
+Wagner de Oliveira
+COZINHEIRO
+12560,00
+52
+Zulima Nardoni
+SECRETARIA
+8960,00
+27

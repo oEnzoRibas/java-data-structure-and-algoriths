@@ -1,0 +1,14 @@
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.AssemblyInfoInputs.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.AssemblyInfo.cs
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02.exe
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02.deps.json
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02.runtimeconfig.json
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02.pdb
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\refint\ExC#02.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.pdb
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02.genruntimeconfig.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ref\ExC#02.dll

@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A1D46E-2F47-4F1C-A71C-523FEA0551E7}|teste.csproj|c:\\users\\enzo\\onedrive - funda\u00E7\u00E3o movimento direito e cidadania\\faculdade\\1ro semestre\\algoritmos e estrutura de dados\\trabalho linguagens de programa\u00E7\u00E3o\\c#\\janeladedi\u00E1logo\\teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10A1D46E-2F47-4F1C-A71C-523FEA0551E7}|teste.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\JaneladeDi\u00E1logo\\teste\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:11:48.938Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

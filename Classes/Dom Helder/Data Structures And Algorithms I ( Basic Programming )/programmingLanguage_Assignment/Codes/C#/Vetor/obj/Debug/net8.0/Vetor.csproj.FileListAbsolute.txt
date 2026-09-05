@@ -1,0 +1,14 @@
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\bin\Debug\net8.0\Vetor.exe
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\bin\Debug\net8.0\Vetor.deps.json
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\bin\Debug\net8.0\Vetor.runtimeconfig.json
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\bin\Debug\net8.0\Vetor.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\bin\Debug\net8.0\Vetor.pdb
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfoInputs.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfo.cs
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\refint\Vetor.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.pdb
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\Vetor.genruntimeconfig.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Faculdade\1ro Semestre\Algoritmos e Estrutura de Dados\Trabalho Linguagens de Programação\C#\Vetor\obj\Debug\net8.0\ref\Vetor.dll

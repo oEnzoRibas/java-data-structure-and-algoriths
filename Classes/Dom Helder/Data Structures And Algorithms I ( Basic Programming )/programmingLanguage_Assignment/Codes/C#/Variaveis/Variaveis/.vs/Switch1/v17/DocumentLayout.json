@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA22158-A06F-4310-A8B6-440F46E9D4FF}|Switch1.csproj|c:\\users\\enzo\\onedrive - funda\u00E7\u00E3o movimento direito e cidadania\\faculdade\\1ro semestre\\algoritmos e estrutura de dados\\trabalho linguagens de programa\u00E7\u00E3o\\c#\\variaveis\\variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA22158-A06F-4310-A8B6-440F46E9D4FF}|Switch1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 118,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\OneDrive - FUNDA\u00C7\u00C3O MOVIMENTO DIREITO E CIDADANIA\\Faculdade\\1ro Semestre\\Algoritmos e Estrutura de Dados\\Trabalho Linguagens de Programa\u00E7\u00E3o\\C#\\Variaveis\\Variaveis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:54:53.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

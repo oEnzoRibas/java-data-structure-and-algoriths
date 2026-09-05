@@ -1,0 +1,14 @@
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02 Class,Methods.exe
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02 Class,Methods.deps.json
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02 Class,Methods.runtimeconfig.json
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02 Class,Methods.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\bin\Debug\net8.0\ExC#02 Class,Methods.pdb
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.AssemblyInfoInputs.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.AssemblyInfo.cs
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\refint\ExC#02 Class,Methods.dll
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.pdb
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ExC#02 Class,Methods.genruntimeconfig.cache
+C:\Users\Enzo\OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA\Projetos\C#\Studies\ExC#02\obj\Debug\net8.0\ref\ExC#02 Class,Methods.dll
